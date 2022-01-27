@@ -38,12 +38,12 @@ div {
 	border: 3px solid #FFFFFF;
 }
 
-div.intro {
+.intro {
 	border-radius: 15px;
 	margin-top: 15px;
 }
 
-div.red {
+.red {
 	background-color: #ff0000;
 	text-align: right;
 	margin-left: 50px;
@@ -51,7 +51,7 @@ div.red {
 	border-left-width: 10px;
 }
 
-div.blue {
+.blue {
 	background-color: #0000ff;
 	text-align: left;
 	margin-right: 50px;
