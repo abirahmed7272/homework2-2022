@@ -46,25 +46,22 @@ div {
 .red {
 	background-color: #ff0000;
 	text-align: right;
-	margin-left: 50px;
-	border-bottom-width: 3px;
-	border-left-width: 10px;
+	margin: 0px 0px 0px 50px;
+	border-width: 0px 0px 3px 10px;
 }
 
 .blue {
 	background-color: #0000ff;
 	text-align: left;
-	margin-right: 50px;
-	border-right-width: 10px;
-	border-bottom-width: 3px;
+	margin: 0px 50px 0px 0px;
+	border-width: 0px 10px 3px 0px;
 }
 
 .yellow {
 	background-color: #ffff00;
 	text-align: right;
-	margin-left: 50px;
-	border-bottom-width: 3px;
-	border-left-width: 10px;
+	margin: 0px 0px 0px 50px;
+	border-width: 0px 0px 3px 10px;
 }
 
 .yellow p, .yellow h2 {
@@ -78,9 +75,8 @@ div {
 .green {
 	background-color: #006400;
 	text-align: left;
-	margin-right: 50px;
-	border-right-width: 10px;
-	border-bottom-width: 3px;
+	margin: 0px 50px 0px 0px;
+	border-width: 0px 10px 3px 0px;
 }
 
 span {
@@ -97,7 +93,5 @@ footer {
 footer p {
 	font-size: 20px;
 	text-align: center;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
+	padding: 10px 10px 10px 0px;
 }
