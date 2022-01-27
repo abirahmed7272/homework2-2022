@@ -31,3 +31,9 @@ img {
 	margin-right: auto;
 	border: 10px dashed #FFFFFF;
 }
+
+div {
+	min-height: 100px;
+	padding: 20px;
+	border: 3px solid #FFFFFF;
+}
