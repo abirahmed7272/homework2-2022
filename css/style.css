@@ -82,3 +82,9 @@ div {
 	border-right-width: 10px;
 	border-bottom-width: 3px;
 }
+
+span {
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-shadow: none;
+}
