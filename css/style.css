@@ -74,3 +74,11 @@ div {
 .yellow h2 {
 	text-shadow: 2px 4px #c7e2c7;
 }
+
+.green {
+	background-color: #00EB00;
+	text-align: left;
+	margin-right: 50px;
+	border-right-width: 10px;
+	border-bottom-width: 3px;
+}
