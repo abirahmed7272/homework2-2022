@@ -12,3 +12,8 @@ h1 {
 	text-align: center;
 	padding: 15px;
 }
+
+h2 {
+	font-size: 32px;
+	text-shadow: 2px 4px #808080;
+}
